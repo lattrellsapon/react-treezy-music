@@ -5,7 +5,7 @@ export class Header extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Treezy Beats Production test</h1>
+        <h1>Treezy Beats Production</h1>
         <img src={Image} id="main-image"/>
       </div>
     )
